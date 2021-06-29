@@ -29,9 +29,9 @@ It is not allowed to define an alias which collides with another alias, or is th
 Each FAQ command can have multiple responses, but each response has a respective channel group. There can be at most 255 responses for a FAQ command, but each FAQ command must have at least one response.
 The channel group name has the same limitations as the FAQ command name.
 
-Each message in a response _must_ have a position, in order to sort them correctly. There are at most 3 messages allowed, and the possible values for "position" are 0, 1 or 2. To phrase it differently, "position" defines the position of one individual message within the ordered messages.
+Each message in a response _must_ have a position, in order to sort them correctly. There are at most 3 messages allowed, and the possible values for `position` are 0, 1 or 2. To phrase it differently, `position` defines the position of one individual message within the ordered messages.
 
-The length of the text not within an embed and the description of an embed must be between 1 and 2000 characters.
+The length of the text (the one not within an embed) and the description of an embed must be between 1 and 2000 characters.
 
 The length of the imageURL used as an attachment must be between 1 and 2000. It must also start with `http`.
 It is possible to determine the color of embeds with the `color` attribute of an embed. This is another object with three attributes (`red`, `blue`, `green`) respectively. The ranges for this values are 0-255.
