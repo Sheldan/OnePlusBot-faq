@@ -8,25 +8,6 @@
     ],
     "responses": [
       {
-        "channelGroupName": "op7",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "Repair prices for the OnePlus 7: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d10\u003e  \nRepair prices for the OnePlus 7 Pro: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d11\u003e",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "userId": 426015562595041280
-              }
-            }
-          }
-        ]
-      },
-      {
         "channelGroupName": "op6",
         "messages": [
           {
@@ -39,7 +20,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -58,7 +39,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -77,7 +58,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -96,7 +77,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -115,26 +96,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "opnord",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "Repair prices for the OnePlus Nord: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d27\u003e\r\nRepair prices for the OnePlus Nord N10 5G: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d30\u003e\r\nRepair prices for the OnePlus Nord N100: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d31\u003e",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -153,7 +115,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -172,7 +134,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -191,7 +153,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -210,7 +172,45 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
+              }
+            }
+          }
+        ]
+      },
+      {
+        "channelGroupName": "opnord",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "Repair prices for the OnePlus Nord: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d27\u003e\r\nRepair prices for the OnePlus Nord N10 5G: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d30\u003e\r\nRepair prices for the OnePlus Nord N100: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d31\u003e",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "userId": 865381904122642462
+              }
+            }
+          }
+        ]
+      },
+      {
+        "channelGroupName": "op7",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "Repair prices for the OnePlus 7: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d10\u003e  \nRepair prices for the OnePlus 7 Pro: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d11\u003e",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "userId": 865381904122642462
               }
             }
           }
@@ -238,7 +238,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -267,7 +267,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -326,7 +326,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -345,7 +345,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -364,7 +364,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -383,7 +383,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -402,26 +402,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op7",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the 7 and 7 Pro here: \u003chttps://www.celsoazevedo.com/files/android/p/gcam-oneplus-7-t-pro/\u003e. See here how to install the APK: \u003chttps://www.celsoazevedo.com/files/android/how-to-install-apk-file/\u003e and here how to load config files: \u003chttps://www.celsoazevedo.com/files/android/google-camera/f/settings09/\u003e.",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -440,7 +421,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -459,7 +440,26 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
+              }
+            }
+          }
+        ]
+      },
+      {
+        "channelGroupName": "op7",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the 7 and 7 Pro here: \u003chttps://www.celsoazevedo.com/files/android/p/gcam-oneplus-7-t-pro/\u003e. See here how to install the APK: \u003chttps://www.celsoazevedo.com/files/android/how-to-install-apk-file/\u003e and here how to load config files: \u003chttps://www.celsoazevedo.com/files/android/google-camera/f/settings09/\u003e.",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "userId": 865381904122642462
               }
             }
           }
@@ -488,7 +488,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -518,7 +518,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -546,7 +546,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -577,7 +577,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -597,7 +597,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -630,7 +630,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -656,7 +656,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -682,7 +682,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -710,7 +710,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -753,7 +753,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -779,7 +779,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -798,7 +798,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -827,7 +827,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -861,7 +861,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -880,64 +880,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op6",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\nXDA threads for reference and flashing instructions:\r\n\r\n**OnePlus 6:** \u003chttps://forum.xda-developers.com/oneplus-6/how-to/op6-collection-unbrick-tools-t3914109\u003e\r\n\r\n**OnePlus 6T:** \u003chttps://forum.xda-developers.com/oneplus-6t/how-to/op6t-collection-unbrick-tools-t3914746\u003e",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "userId": 426015562595041280
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op7t",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\nXDA threads for reference and flashing instructions:\r\n\r\n**OnePlus 7T:** \u003chttps://forum.xda-developers.com/oneplus-7t/how-to/op7t-unbrick-tool-to-restore-device-to-t3994835\u003e\r\n\r\n**OnePlus 7T T-Mobile:** \u003chttps://forum.xda-developers.com/oneplus-7t/how-to/op7t-t-mobile-unbrick-tool-to-restore-t4004005\u003e\r\n\r\n**OnePlus 7T Pro:** \u003chttps://forum.xda-developers.com/7t-pro/how-to/op7tpro-unbrick-tool-to-restore-device-t4002909\u003e\r\n\r\n**OnePlus 7T Pro T-Mobile 5G:** \u003chttps://forum.xda-developers.com/7t-pro-mclaren/how-to/op7tpro-tmo-5g-unbrick-tool-to-restore-t4043925\u003e",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "userId": 426015562595041280
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "opnord",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\n**OnePlus Nord:** XDA threads for reference and flashing instructions:\u003chttps://forum.xda-developers.com/oneplus-nord/how-to/opnord-unbrick-tool-to-restore-device-t4148415\u003e\r\n\r\n**OnePlus Nord N10 5G:** https://forum.xda-developers.com/t/opn105g-oos-86aa-89ba-unbrick-tool-to-restore-your-device-to-oxygenos.4204445/\r\n\r\n**OnePlus Nord N10 5G T-Mobile:** https://forum.xda-developers.com/t/opn105g-oos-tmo-be88cb-unbrick-tool-to-restore-your-device-to-oxygenos.4245455/\r\n\r\n**OnePlus Nord N10 5G Metro by T-Mobile:** https://forum.xda-developers.com/t/opn105g-oos-metro-be88cf-unbrick-tool-to-restore-your-device-to-oxygenos.4245461/\r\n\r\n**OnePlus Nord N100:** https://forum.xda-developers.com/t/opn100-oos-81aa-83ba-unbrick-tool-to-restore-your-device-to-oxygenos.4217855/\r\n\r\n**OnePlus Nord N100 T-Mobile:** https://forum.xda-developers.com/t/opn100-oos-tmo-be82cb-unbrick-tool-to-restore-your-device-to-oxygenos.4245495/\r\n\r\n**OnePlus Nord N100 Metro by T-Mobile:** https://forum.xda-developers.com/t/opn100-oos-metro-be82cf-unbrick-tool-to-restore-your-device-to-oxygenos.4245499/",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -956,7 +899,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -975,7 +918,64 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
+              }
+            }
+          }
+        ]
+      },
+      {
+        "channelGroupName": "op7t",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\nXDA threads for reference and flashing instructions:\r\n\r\n**OnePlus 7T:** \u003chttps://forum.xda-developers.com/oneplus-7t/how-to/op7t-unbrick-tool-to-restore-device-to-t3994835\u003e\r\n\r\n**OnePlus 7T T-Mobile:** \u003chttps://forum.xda-developers.com/oneplus-7t/how-to/op7t-t-mobile-unbrick-tool-to-restore-t4004005\u003e\r\n\r\n**OnePlus 7T Pro:** \u003chttps://forum.xda-developers.com/7t-pro/how-to/op7tpro-unbrick-tool-to-restore-device-t4002909\u003e\r\n\r\n**OnePlus 7T Pro T-Mobile 5G:** \u003chttps://forum.xda-developers.com/7t-pro-mclaren/how-to/op7tpro-tmo-5g-unbrick-tool-to-restore-t4043925\u003e",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "userId": 865381904122642462
+              }
+            }
+          }
+        ]
+      },
+      {
+        "channelGroupName": "op6",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\nXDA threads for reference and flashing instructions:\r\n\r\n**OnePlus 6:** \u003chttps://forum.xda-developers.com/oneplus-6/how-to/op6-collection-unbrick-tools-t3914109\u003e\r\n\r\n**OnePlus 6T:** \u003chttps://forum.xda-developers.com/oneplus-6t/how-to/op6t-collection-unbrick-tools-t3914746\u003e",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "userId": 865381904122642462
+              }
+            }
+          }
+        ]
+      },
+      {
+        "channelGroupName": "opnord",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\n**OnePlus Nord:** XDA threads for reference and flashing instructions:\u003chttps://forum.xda-developers.com/oneplus-nord/how-to/opnord-unbrick-tool-to-restore-device-t4148415\u003e\r\n\r\n**OnePlus Nord N10 5G:** https://forum.xda-developers.com/t/opn105g-oos-86aa-89ba-unbrick-tool-to-restore-your-device-to-oxygenos.4204445/\r\n\r\n**OnePlus Nord N10 5G T-Mobile:** https://forum.xda-developers.com/t/opn105g-oos-tmo-be88cb-unbrick-tool-to-restore-your-device-to-oxygenos.4245455/\r\n\r\n**OnePlus Nord N10 5G Metro by T-Mobile:** https://forum.xda-developers.com/t/opn105g-oos-metro-be88cf-unbrick-tool-to-restore-your-device-to-oxygenos.4245461/\r\n\r\n**OnePlus Nord N100:** https://forum.xda-developers.com/t/opn100-oos-81aa-83ba-unbrick-tool-to-restore-your-device-to-oxygenos.4217855/\r\n\r\n**OnePlus Nord N100 T-Mobile:** https://forum.xda-developers.com/t/opn100-oos-tmo-be82cb-unbrick-tool-to-restore-your-device-to-oxygenos.4245495/\r\n\r\n**OnePlus Nord N100 Metro by T-Mobile:** https://forum.xda-developers.com/t/opn100-oos-metro-be82cf-unbrick-tool-to-restore-your-device-to-oxygenos.4245499/",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "userId": 865381904122642462
               }
             }
           }
@@ -994,7 +994,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1013,7 +1013,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1041,7 +1041,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1069,7 +1069,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1099,7 +1099,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1129,7 +1129,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1155,7 +1155,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1181,7 +1181,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1207,7 +1207,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1226,7 +1226,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1245,7 +1245,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1264,26 +1264,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op8t",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "You can find official OxygenOS zips for the OnePlus 8T at https://forum.xda-developers.com/oneplus-8t/how-to/oneplus-8t-repo-oxygen-os-builds-t4193183",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1302,7 +1283,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1321,7 +1302,7 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
               }
             }
           }
@@ -1340,7 +1321,26 @@
                 "blue": 0
               },
               "author": {
-                "userId": 426015562595041280
+                "userId": 865381904122642462
+              }
+            }
+          }
+        ]
+      },
+      {
+        "channelGroupName": "op8t",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "You can find official OxygenOS zips for the OnePlus 8T at https://forum.xda-developers.com/oneplus-8t/how-to/oneplus-8t-repo-oxygen-os-builds-t4193183",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "userId": 865381904122642462
               }
             }
           }
