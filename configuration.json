@@ -2,23 +2,13 @@
   {
     "faqCommandName": "ask",
     "global": true,
+    "aliases": [],
     "responses": [
       {
         "channelGroupName": "global",
         "messages": [
           {
-            "position": 0,
-            "embed": {
-              "imageUrl": "https://i.imgur.com/93qXFd0.png",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
+            "position": 0
           }
         ]
       }
@@ -710,26 +700,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 3: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d4\u003e \nRepair prices for the OnePlus 3T: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d6\u003e",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op5",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "Repair prices for the OnePlus 5: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d5\u003e \nRepair prices for the OnePlus 5T: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d7\u003e",
+              "description": "Repair prices for the OnePlus 3: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d4\u003e \nRepair prices for the OnePlus 3T: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d6\u003e \nRepair prices for the OnePlus 5: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d5\u003e \nRepair prices for the OnePlus 5T: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d7\u003e",
               "color": {
                 "red": 0,
                 "green": 0,
