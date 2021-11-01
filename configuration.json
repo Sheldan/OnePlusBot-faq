@@ -99,7 +99,7 @@
     ]
   },
   {
-    "faqCommandName": "customROM",
+    "faqCommandName": "fastbootROM",
     "global": false,
     "aliases": [],
     "responses": [
