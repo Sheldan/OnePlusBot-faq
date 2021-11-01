@@ -8,7 +8,18 @@
         "channelGroupName": "global",
         "messages": [
           {
-            "position": 0
+            "position": 0,
+            "embed": {
+              "imageUrl": "https://i.imgur.com/93qXFd0.png",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "useBot": true
+              }
+            }
           }
         ]
       }
@@ -404,7 +415,18 @@
         "channelGroupName": "global",
         "messages": [
           {
-            "position": 0
+            "position": 0,
+            "embed": {
+              "imageUrl": "https://i.imgur.com/1niu5wN.jpg",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "useBot": true
+              }
+            }
           }
         ]
       }
