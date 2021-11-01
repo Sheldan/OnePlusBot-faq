@@ -99,6 +99,32 @@
     ]
   },
   {
+    "faqCommandName": "customROM",
+    "global": false,
+    "aliases": [],
+    "responses": [
+      {
+        "channelGroupName": "op6",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "Instructions for flashing fastboot ROMs:\n\n1. Choose to download any version of oos 10 through the links provided below. \n\n2. Extract contents to a folder in ur PC. \n\n3. Boot your device into bootloader by pressing PWR + vol up\n\n4. Connect your device to your PC\n\n5. Double click the flashall.bat file in the folder where you extract the fastboot rom package\n\n**OnePlus 6T**\n Forums: https://forum.xda-developers.com/f/oneplus-6t-roms-kernels-recoveries-other-dev.8261/ \n **OnePlus 6** \n https://forum.xda-developers.com/f/oneplus-6-roms-kernels-recoveries-other-devel.7613/",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "useBot": true
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "faqCommandName": "diagnostic",
     "global": false,
     "aliases": [
