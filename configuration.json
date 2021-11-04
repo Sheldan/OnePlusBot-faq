@@ -99,32 +99,6 @@
     ]
   },
   {
-    "faqCommandName": "fastbootROM",
-    "global": false,
-    "aliases": [],
-    "responses": [
-      {
-        "channelGroupName": "op6",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "Instructions for flashing fastboot ROMs:\n\n1. Choose to download any version of oos 10 through the links provided below. \n\n2. Extract contents to a folder in ur PC. \n\n3. Boot your device into bootloader by pressing PWR + vol up\n\n4. Connect your device to your PC\n\n5. Double click the flashall.bat file in the folder where you extract the fastboot rom package\n\n**OnePlus 6T**\n Forums: https://forum.xda-developers.com/f/oneplus-6t-roms-kernels-recoveries-other-dev.8261/ \n **OnePlus 6** \n https://forum.xda-developers.com/f/oneplus-6-roms-kernels-recoveries-other-devel.7613/",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
     "faqCommandName": "diagnostic",
     "global": false,
     "aliases": [
@@ -202,6 +176,89 @@
             "position": 0,
             "embed": {
               "description": "To use ADB and fastboot tools, download them from \u003chttps://dl.google.com/android/repository/platform-tools-latest-windows.zip\u003e (source \u003chttps://developer.android.com/studio/releases/platform-tools\u003e ) and unzip them. If you wish to add them to your PATH (meaning being able to use them without having to navigate to the folder they\u0027\u0027re stored first), search in Start Menu for `Environment variables` and click on `Modify system environment variables`. On the next window click on `Environment variables`. Go to `System variables`, select `Path` and click on `Edit`. Click on `New` and input the location of where you unzipped `platform-tools` folder.",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "useBot": true
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "faqCommandName": "fastbootROM",
+    "global": false,
+    "aliases": [],
+    "responses": [
+      {
+        "channelGroupName": "op6",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "**Please bear in mind this may not work to downgrade of Android versions, you may need to use MSM tool for this.** \n\nInstructions for flashing fastboot ROMs:\n\n1. Choose to download any version of OOS through the links provided below. \n\n2. Extract contents to a folder in your PC. \n\n3. Boot your device into bootloader by pressing PWR + vol up\n\n4. Connect your device to your PC\n\n5. Double click the flashall.bat file in the folder where you extract the fastboot rom package\n\n**OnePlus 6** \nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op6-stock-fastboot-roms-for-oneplus-6.3796665/ \n**OnePlus 6T**\nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op6t-stock-fastboot-roms-for-oneplus-6t.3862516/",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "useBot": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "channelGroupName": "op7",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "**Please bear in mind this may not work to downgrade of Android versions, you may need to use MSM tool for this.** \n\nInstructions for flashing fastboot ROMs:\n\n1. Choose to download any version of OOS through the links provided below. \n\n2. Extract contents to a folder in your PC. \n\n3. Boot your device into bootloader by pressing PWR + vol up\n\n4. Connect your device to your PC\n\n5. Double click the flashall.bat file in the folder where you extract the fastboot rom package\n\n**OnePlus 7**\nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op7-stock-fastboot-roms-for-oneplus-7.3937478/ \n**OnePlus 7 Pro** \nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op7p-stock-fastboot-roms-for-oneplus-7-pro-7-pro-5g.3931424/ \n**OnePlus 7T** \nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op7t-stock-fastboot-roms-for-oneplus-7t.3979213/ \n**OnePlus 7T Pro** \nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op7tp-stock-fastboot-roms-for-oneplus-7t-pro.3991189/",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "useBot": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "channelGroupName": "op8",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "**Please bear in mind this may not work to downgrade of Android versions, you may need to use MSM tool for this.** \n\nInstructions for flashing fastboot ROMs:\n\n1. Choose to download any version of OOS through the links provided below. \n\n2. Extract contents to a folder in your PC. \n\n3. Boot your device into bootloader by pressing PWR + vol up\n\n4. Connect your device to your PC\n\n5. Double click the flashall.bat file in the folder where you extract the fastboot rom package\n\n**OnePlus 8**\nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op8-stock-fastboot-roms-for-oneplus-8.4084629/ \n**OnePlus 8 Pro** \nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op8p-stock-fastboot-roms-for-oneplus-8-pro.4083997/",
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+              },
+              "author": {
+                "useBot": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "channelGroupName": "op8t",
+        "messages": [
+          {
+            "position": 0,
+            "embed": {
+              "description": "**Please bear in mind this may not work to downgrade of Android versions, you may need to use MSM tool for this.** \n\nInstructions for flashing fastboot ROMs:\n\n1. Choose to download any version of OOS through the links provided below. \n\n2. Extract contents to a folder in your PC. \n\n3. Boot your device into bootloader by pressing PWR + vol up\n\n4. Connect your device to your PC\n\n5. Double click the flashall.bat file in the folder where you extract the fastboot rom package\n\n**OnePlus 8T** \nhttps://forum.xda-developers.com/t/rom-stock-fastboot-stock-oxygenos-fastboot-roms-for-oneplus-8t.4348023/",
               "color": {
                 "red": 0,
                 "green": 0,
