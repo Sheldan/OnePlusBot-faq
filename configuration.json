@@ -38,7 +38,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "blu_spark XDA thread for OnePlus 7 Pro: \u003chttps://forum.xda-developers.com/oneplus-7-pro/development/kernel-t3944179/\u003e\nblu_spark XDA thread for OnePlus 7: \u003chttps://forum.xda-developers.com/oneplus-7/development/kernel-t3944855\u003e",
+              "description": "blu_spark XDA thread for OnePlus 7 Pro: https://forum.xda-developers.com/oneplus-7-pro/development/kernel-t3944179/\nblu_spark XDA thread for OnePlus 7: https://forum.xda-developers.com/oneplus-7/development/kernel-t3944855",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -59,12 +59,12 @@
     "aliases": [],
     "responses": [
       {
-        "channelGroupName": "op6",
+        "channelGroupName": "legacy",
         "messages": [
           {
             "position": 0,
             "embed": {
-              "description": "You can convert OnePlus 6T sold via T-Mobile to international variant by using rebrand tool present in \u003c#451373145010470912\u003e .\nGet your device in EDL mode, launch MsmDownloadTool V4.0_factory_patched.exe , press Start button and wait until process finish (shouldn\u0027\u0027t take less than 300 seconds).\n\nSource \u003chttps://forum.xda-developers.com/oneplus-6t/how-to/t-mobile-6t-to-international-t3888307\u003e",
+              "description": "You can convert OnePlus 6T sold via T-Mobile to international variant by using rebrand tool present in #451373145010470912 .\nGet your device in EDL mode, launch MsmDownloadTool V4.0_factory_patched.exe , press Start button and wait until process finish (shouldn\u0027\u0027t take less than 300 seconds).\n\nSource https://forum.xda-developers.com/oneplus-6t/how-to/t-mobile-6t-to-international-t3888307",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -83,7 +83,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "You can convert OnePlus 7 Pro sold via T-Mobile to international variant by using rebrand tool present in \u003c#451373145010470912\u003e .\r\nGet your device in EDL mode, launch msm tool, uncheck box next to SHA-256 check, press Start button and wait until process finish (shouldn\u0027\u0027t take less than 300 seconds).\r\n\r\nSource \u003chttps://forum.xda-developers.com/oneplus-7-pro/how-to/how-to-convert-tmobile-op7-to-t3935947\u003e\r\n\r\nIf you have the OnePlus 7 Pro 5G sold via Sprint, you can convert it to 5G EU variant by using same procedure\r\n\r\nSource \u003chttps://forum.xda-developers.com/t/debrand-conversion-sprint-oneplus-7-pro-5g-to-european-fw.4042583/\u003e\r\n",
+              "description": "You can convert OnePlus 7 Pro sold via T-Mobile to international variant by using rebrand tool present in #451373145010470912 .\nGet your device in EDL mode, launch msm tool, uncheck box next to SHA-256 check, press Start button and wait until process finish (shouldn\u0027\u0027t take less than 300 seconds).\n\nSource https://forum.xda-developers.com/oneplus-7-pro/how-to/how-to-convert-tmobile-op7-to-t3935947\n\nIf you have the OnePlus 7 Pro 5G sold via Sprint, you can convert it to 5G EU variant by using same procedure\n\nSource https://forum.xda-developers.com/t/debrand-conversion-sprint-oneplus-7-pro-5g-to-european-fw.4042583/\n",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -113,7 +113,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "**Fast download**: Check out https://www.onepluscommunityserver.com/. Alternative download: \u003chttps://www.apkmirror.com/apk/oneplus-ltd/oneplus-diagnostic/\u003e.\r\n\r\n**Note:** this app does NOT work on 8-series and Nord devices (battery health is being displayed incorrectly).",
+              "description": "**Fast download**: Check out https://www.onepluscommunityserver.com/. Alternative download: https://www.apkmirror.com/apk/oneplus-ltd/oneplus-diagnostic/.\n\n**Note:** this app does NOT work on 8-series and Nord devices (battery health is being displayed incorrectly).",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -175,7 +175,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "To use ADB and fastboot tools, download them from \u003chttps://dl.google.com/android/repository/platform-tools-latest-windows.zip\u003e (source \u003chttps://developer.android.com/studio/releases/platform-tools\u003e ) and unzip them. If you wish to add them to your PATH (meaning being able to use them without having to navigate to the folder they\u0027\u0027re stored first), search in Start Menu for `Environment variables` and click on `Modify system environment variables`. On the next window click on `Environment variables`. Go to `System variables`, select `Path` and click on `Edit`. Click on `New` and input the location of where you unzipped `platform-tools` folder.",
+              "description": "To use ADB and fastboot tools, download them from https://dl.google.com/android/repository/platform-tools-latest-windows.zip (source https://developer.android.com/studio/releases/platform-tools ) and unzip them. If you wish to add them to your PATH (meaning being able to use them without having to navigate to the folder they\u0027\u0027re stored first), search in Start Menu for `Environment variables` and click on `Modify system environment variables`. On the next window click on `Environment variables`. Go to `System variables`, select `Path` and click on `Edit`. Click on `New` and input the location of where you unzipped `platform-tools` folder.",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -196,7 +196,7 @@
     "aliases": [],
     "responses": [
       {
-        "channelGroupName": "op6",
+        "channelGroupName": "legacy",
         "messages": [
           {
             "position": 0,
@@ -321,36 +321,8 @@
         "messages": [
           {
             "position": 0,
-            "additionalMessage": "Google Camera for 3 \u0026 3T: \u003chttps://forum.xda-developers.com/oneplus-3/how-to/modded-google-camera-hdr-60fps-video-t3658552\u003e \nFor all device APKs, please visit: \u003chttps://www.celsoazevedo.com/files/android/google-camera\u003e\n\nOnePlus 2 and before: Google Camera only supports 64 bit devices. Sorry."
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op5",
-        "messages": [
-          {
-            "position": 0,
             "embed": {
-              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the 5 and 5T here: \u003chttps://www.celsoazevedo.com/files/android/p/gcam-oneplus-5-5t/\u003e. See here how to install the APK: \u003chttps://www.celsoazevedo.com/files/android/how-to-install-apk-file/\u003e and here how to load config files: \u003chttps://www.celsoazevedo.com/files/android/google-camera/f/settings09/\u003e.",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op6",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the 6 and 6T here: \u003chttps://www.celsoazevedo.com/files/android/p/gcam-oneplus-6-6t/\u003e. See here how to install the APK: \u003chttps://www.celsoazevedo.com/files/android/how-to-install-apk-file/\u003e and here how to load config files: \u003chttps://www.celsoazevedo.com/files/android/google-camera/f/settings09/\u003e.",
+              "description": "Google Camera \nOnePlus 2 and before: Google Camera only supports 64 bit devices. Sorry.\n**OnePlus 3 and OnePlus 3T**\nhttps://forum.xda-developers.com/oneplus-3/how-to/modded-google-camera-hdr-60fps-video-t3658552 \n**OnePlus 5 and OnePlus 5T**\nhttps://www.celsoazevedo.com/files/android/p/gcam-oneplus-5-5t/\n**OnePlus 6 and OnePlus 6T**\nhttps://www.celsoazevedo.com/files/android/p/gcam-oneplus-6-6t/\n\n See here how to install the APK:\nhttps://www.celsoazevedo.com/files/android/how-to-install-apk-file/ and here how to load config files: https://www.celsoazevedo.com/files/android/google-camera/f/settings09/\nFor all device APKs, please visit: https://www.celsoazevedo.com/files/android/google-camera",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -369,7 +341,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the 7, 7 Pro, 7T and 7T Pro here: \u003chttps://www.celsoazevedo.com/files/android/p/gcam-oneplus-7-t-pro/\u003e. See here how to install the APK: \u003chttps://www.celsoazevedo.com/files/android/how-to-install-apk-file/\u003e and here how to load config files: \u003chttps://www.celsoazevedo.com/files/android/google-camera/f/settings09/\u003e. For my configs (I test ones for my 7 Pro every now and then. I am focused on getting the most optimal results), check here: \u003chttps://anonymouswp.stackstorage.com/s/ESTx42T8IkG2cve\u003e",
+              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the **OnePlus 7, 7 Pro, 7T and 7T Pro** here: https://www.celsoazevedo.com/files/android/p/gcam-oneplus-7-t-pro/. See here how to install the APK: https://www.celsoazevedo.com/files/android/how-to-install-apk-file/ and here how to load config files: https://www.celsoazevedo.com/files/android/google-camera/f/settings09/. For my configs (I test ones for my 7 Pro every now and then. I am focused on getting the most optimal results), check here: https://anonymouswp.stackstorage.com/s/ESTx42T8IkG2cve",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -388,7 +360,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the 8 and 8 Pro here: \u003chttps://www.celsoazevedo.com/files/android/p/google-camera-oneplus-8-series/\u003e. See here how to install the APK: \u003chttps://www.celsoazevedo.com/files/android/how-to-install-apk-file/\u003e and here how to load config files: \u003chttps://www.celsoazevedo.com/files/android/google-camera/f/settings09/\u003e.",
+              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the **OnePlus 8 and 8 Pro** here: https://www.celsoazevedo.com/files/android/p/google-camera-oneplus-8-series/. See here how to install the APK: https://www.celsoazevedo.com/files/android/how-to-install-apk-file/ and here how to load config files: https://www.celsoazevedo.com/files/android/google-camera/f/settings09/.",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -407,7 +379,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the 8T here: \u003chttps://www.celsoazevedo.com/files/android/p/google-camera-oneplus-8-series/\u003e. See here how to install the APK: \u003chttps://www.celsoazevedo.com/files/android/how-to-install-apk-file/\u003e and here how to load config files: \u003chttps://www.celsoazevedo.com/files/android/google-camera/f/settings09/\u003e.",
+              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the ** OnePlus 8T** here: https://www.celsoazevedo.com/files/android/p/google-camera-oneplus-8-series/. See here how to install the APK: https://www.celsoazevedo.com/files/android/how-to-install-apk-file/ and here how to load config files: https://www.celsoazevedo.com/files/android/google-camera/f/settings09/.",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -426,7 +398,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the 9-series here: \u003chttps://t.me/gcam_OP9\u003e. See here how to install the APK: \u003chttps://www.celsoazevedo.com/files/android/how-to-install-apk-file/\u003e and here how to load config files: \u003chttps://www.celsoazevedo.com/files/android/google-camera/f/settings09/\u003e",
+              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the **OnePlus 9-series** here: https://t.me/gcam_OP9. See here how to install the APK: https://www.celsoazevedo.com/files/android/how-to-install-apk-file/ and here how to load config files: https://www.celsoazevedo.com/files/android/google-camera/f/settings09/",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -445,7 +417,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the Nord here: \u003chttps://www.celsoazevedo.com/files/android/p/google-camera-oneplus-nord/\u003e. See here how to install the APK: \u003chttps://www.celsoazevedo.com/files/android/how-to-install-apk-file/\u003e and here how to load config files: \u003chttps://www.celsoazevedo.com/files/android/google-camera/f/settings09/\u003e.",
+              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the **OnePlus Nord** here: https://www.celsoazevedo.com/files/android/p/google-camera-oneplus-nord/. See here how to install the APK: https://www.celsoazevedo.com/files/android/how-to-install-apk-file/ and here how to load config files: https://www.celsoazevedo.com/files/android/google-camera/f/settings09/.",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -526,7 +498,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "You can use OnePlus Switch \u003chttps://play.google.com/store/apps/details?id\u003dcom.oneplus.backuprestore\u003e to backup and restore your data. Most of applications data will be backed up as \nIf you want to avoid data of a specific application to be restored, you can get in `MobileBackup --\u003e App` in `opbackup` folder to delete the .tar file associated to the app (eg: `com.whatsapp.tar` for data of WhatsApp)",
+              "description": "You can use OnePlus Switch https://play.google.com/store/apps/details?id\u003dcom.oneplus.backuprestore to backup and restore your data. Most of applications data will be backed up as \nIf you want to avoid data of a specific application to be restored, you can get in `MobileBackup -- App` in `opbackup` folder to delete the .tar file associated to the app (eg: `com.whatsapp.tar` for data of WhatsApp)",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -547,7 +519,7 @@
     "aliases": [],
     "responses": [
       {
-        "channelGroupName": "op6",
+        "channelGroupName": "legacy",
         "messages": [
           {
             "position": 0,
@@ -571,7 +543,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "You can find official OxygenOS zips for the OnePlus 7 and 7 Pro at https://forum.xda-developers.com/t/oneplus-7-rom-ota-oxygen-os-repo-of-oxygen-os-builds.3937152/ and https://forum.xda-developers.com/t/oneplus-7-pro-5g-rom-ota-oxygen-os-repo-of-oxygen-os-builds.3930585/. \r\n You can find official OxygenOS zips for the OnePlus 7T and Oneplus 7T Pro at https://forum.xda-developers.com/oneplus-7t/how-to/oneplus-7t-repo-oxygen-os-builds-t3997037 and https://forum.xda-developers.com/7t-pro/how-to/oneplus-7t-pro-repo-oxygen-os-builds-t4003455.",
+              "description": "You can find official OxygenOS zips for the OnePlus 7 and 7 Pro at https://forum.xda-developers.com/t/oneplus-7-rom-ota-oxygen-os-repo-of-oxygen-os-builds.3937152/ and https://forum.xda-developers.com/t/oneplus-7-pro-5g-rom-ota-oxygen-os-repo-of-oxygen-os-builds.3930585/. \n You can find official OxygenOS zips for the OnePlus 7T and Oneplus 7T Pro at https://forum.xda-developers.com/oneplus-7t/how-to/oneplus-7t-repo-oxygen-os-builds-t3997037 and https://forum.xda-developers.com/7t-pro/how-to/oneplus-7t-pro-repo-oxygen-os-builds-t4003455.",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -642,31 +614,12 @@
         ]
       },
       {
-        "channelGroupName": "opn10n100",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "You can find official OxygenOS zips for the OnePlus N10 5G and OnePlus Nord N100 at https://forum.xda-developers.com/t/root-n10-using-magisk.4197369/ and https://forum.xda-developers.com/t/oneplus-nord-n100-rom-ota-oxygenos-repo-of-oxygenos-builds.4253501/",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "channelGroupName": "opnord",
         "messages": [
           {
             "position": 0,
             "embed": {
-              "description": "You can find official OxygenOS zips for the OnePlus N10 5G and OnePlus Nord N100 at https://forum.xda-developers.com/t/root-n10-using-magisk.4197369/ and https://forum.xda-developers.com/t/oneplus-nord-n100-rom-ota-oxygenos-repo-of-oxygenos-builds.4253501/",
+              "description": "You can find official OxygenOS zips for the OnePlus N10 5G and OnePlus Nord N100 at https://forum.xda-developers.com/t/root-n10-using-magisk.4197369/ and https://forum.xda-developers.com/t/oneplus-nord-n100-rom-ota-oxygenos-repo-of-oxygenos-builds.4253501/ and for OnePlus N10 5G and OnePlus Nord N100 at https://forum.xda-developers.com/t/root-n10-using-magisk.4197369/ and https://forum.xda-developers.com/t/oneplus-nord-n100-rom-ota-oxygenos-repo-of-oxygenos-builds.4253501/",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -722,7 +675,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "**A disclaimer about kernels and modules that require setting SeLinux to *permissive* mode**\n\nSetting SELinux to *permissive* heavily compromises your device\u0027s security model. When SELinux is set to *permissive* mode, all access requests a process makes will be granted. If those access requests were against security policies they will not be blocked but only logged, whilst *enforcing* mode blocks and logs access requests which goes against security policies. On Android 10+, this can lead to situations where an app would be able to root your device without you knowing if SeLinux on your device was set to *permissive* mode. **This means that if your device SeLinux state is set to *permissive*, you must not install any apps that you do not fully trust.**\n\nHere is an XDA article that talks about this in further detail while keeping it in layman\u0027s terms:\n\u003chttps://www.xda-developers.com/permissive-selinux-dangers-exploits/\u003e\n\nFor the more technically oriented, here is topjohnwu\u0027s (Magisk creator and developer) explanation:\n\u003chttps://www.reddit.com/r/Android/comments/lfye5r/selinux_permissive_romskernels_are_very_bad/gmoi05a/\u003e\n\nProof of Concept of privilege escalation attacks: \n\u003chttps://github.com/vvb2060/Magica\u003e",
+              "description": "**A disclaimer about kernels and modules that require setting SeLinux to *permissive* mode**\n\nSetting SELinux to *permissive* heavily compromises your device\u0027s security model. When SELinux is set to *permissive* mode, all access requests a process makes will be granted. If those access requests were against security policies they will not be blocked but only logged, whilst *enforcing* mode blocks and logs access requests which goes against security policies. On Android 10+, this can lead to situations where an app would be able to root your device without you knowing if SeLinux on your device was set to *permissive* mode. **This means that if your device SeLinux state is set to *permissive*, you must not install any apps that you do not fully trust.**\n\nHere is an XDA article that talks about this in further detail while keeping it in layman\u0027s terms:\nhttps://www.xda-developers.com/permissive-selinux-dangers-exploits/\n\nFor the more technically oriented, here is topjohnwu\u0027s (Magisk creator and developer) explanation:\nhttps://www.reddit.com/r/Android/comments/lfye5r/selinux_permissive_romskernels_are_very_bad/gmoi05a/\n\nProof of Concept of privilege escalation attacks: \nhttps://github.com/vvb2060/Magica",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -776,7 +729,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "You can use readback function of MSM tool to dump your device partitions. They will be stored at the root of your system drive and have .img as file extension. For that, get in EDL mode, open MSM tool, press F8, tick partitions you want to dump, input `oneplus` as password, press `ok` and click on Readback button\nDumped partitions are flashable by fastboot.\nDo **NOT** share the following partitions: `dynamic_nvbk.bin`, `static_nvbk.bin`, `misc.bin`, `keystore.bin`, `config.bin`, `devinfo.bin` and `devcfg.mbn` as they contain informations such as your IMEI and your MAC adress (source \u003chttps://forum.xda-developers.com/showpost.php?p\u003d78229476\u0026postcount\u003d96\u003e ).",
+              "description": "You can use readback function of MSM tool to dump your device partitions. They will be stored at the root of your system drive and have .img as file extension. For that, get in EDL mode, open MSM tool, press F8, tick partitions you want to dump, input `oneplus` as password, press `ok` and click on Readback button\nDumped partitions are flashable by fastboot.\nDo **NOT** share the following partitions: `dynamic_nvbk.bin`, `static_nvbk.bin`, `misc.bin`, `keystore.bin`, `config.bin`, `devinfo.bin` and `devcfg.mbn` as they contain informations such as your IMEI and your MAC adress (source https://forum.xda-developers.com/showpost.php?p\u003d78229476\u0026postcount\u003d96 ).",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -805,26 +758,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 3: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d4\u003e \nRepair prices for the OnePlus 3T: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d6\u003e \nRepair prices for the OnePlus 5: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d5\u003e \nRepair prices for the OnePlus 5T: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d7\u003e",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op6",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "Repair prices for the OnePlus 6: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d8\u003e \nRepair prices for the OnePlus 6T: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d9\u003e",
+              "description": "Repair prices for the OnePlus 3: https://www.oneplus.com/support/repair-pricing/details?code=4 \nRepair prices for the OnePlus 3T: https://www.oneplus.com/support/repair-pricing/details?code=6 \nRepair prices for the OnePlus 5: https://www.oneplus.com/support/repair-pricing/details?code=5 \nRepair prices for the OnePlus 5T: https://www.oneplus.com/support/repair-pricing/details?code=7\n Repair prices for the OnePlus 6: https://www.oneplus.com/support/repair-pricing/details?code=8 \nRepair prices for the OnePlus 6T: https://www.oneplus.com/support/repair-pricing/details?code=9",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -843,7 +777,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 7: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d10\u003e  \nRepair prices for the OnePlus 7 Pro: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d11\u003e. \n Repair prices for the OnePlus 7T: https://www.oneplus.com/support/repair-pricing/details?code\u003d22\nRepair prices for the OnePlus 7T Pro: https://www.oneplus.com/support/repair-pricing/details?code\u003d23",
+              "description": "Repair prices for the OnePlus 7: https://www.oneplus.com/support/repair-pricing/details?code=10 \nRepair prices for the OnePlus 7 Pro: https://www.oneplus.com/support/repair-pricing/details?code=11 \n Repair prices for the OnePlus 7T: https://www.oneplus.com/support/repair-pricing/details?code=22 \nRepair prices for the OnePlus 7T Pro: https://www.oneplus.com/support/repair-pricing/details?code=23",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -862,7 +796,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 8: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d24\u003e\nRepair prices for the OnePlus 8 Pro: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d25\u003e",
+              "description": "Repair prices for the OnePlus 8: https://www.oneplus.com/support/repair-pricing/details?code=24 \nRepair prices for the OnePlus 8 Pro: https://www.oneplus.com/support/repair-pricing/details?code=25",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -881,7 +815,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 8T: https://www.oneplus.com/support/repair-pricing/details?code\u003d28",
+              "description": "Repair prices for the OnePlus 8T: https://www.oneplus.com/support/repair-pricing/details?code=28",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -900,26 +834,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 9: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d32\u003e\nRepair prices for the OnePlus 9 Pro: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d33\u003e\nRepair prices for the OnePlus 9 R: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d34\u003e",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "opn10n100",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "Repair prices for the OnePlus Nord N10 5G: https://www.oneplus.com/support/repair-pricing/details?code\u003d30\nRepair prices for the OnePlus Nord N100: https://www.oneplus.com/support/repair-pricing/details?code\u003d31",
+              "description": "Repair prices for the OnePlus 9: https://www.oneplus.com/support/repair-pricing/details?code=32 \nRepair prices for the OnePlus 9 Pro: https://www.oneplus.com/support/repair-pricing/details?code=33 \nRepair prices for the OnePlus 9 R: https://www.oneplus.com/support/repair-pricing/details?code=34",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -938,7 +853,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus Nord: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d27\u003e\r\nRepair prices for the OnePlus Nord N10 5G: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d30\u003e\r\nRepair prices for the OnePlus Nord N100: \u003chttps://www.oneplus.com/support/repair-pricing/details?code\u003d31\u003e",
+              "description": "Repair prices for the OnePlus Nord: https://www.oneplus.com/support/repair-pricing/details?code=27 \nRepair prices for the OnePlus Nord N10 5G: https://www.oneplus.com/support/repair-pricing/details?code=30 \nRepair prices for the OnePlus Nord N100: https://www.oneplus.com/support/repair-pricing/details?code=31 \n Repair prices for the OnePlus Nord N10 5G: https://www.oneplus.com/support/repair-pricing/details?code=30 \nRepair prices for the OnePlus Nord N100: https://www.oneplus.com/support/repair-pricing/details?code=31",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -957,7 +872,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for all OnePlus-devices: \u003chttps://www.oneplus.com/support/repair-pricing\u003e",
+              "description": "Repair prices for all OnePlus-devices: https://www.oneplus.com/support/repair-pricing",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -1041,7 +956,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "You can use `fastboot getvar current-slot` to know the current bootable slot of your device and `fastboot --set-active\u003dother` to switch of bootable slot.\n\nSee \u003chttps://source.android.com/devices/tech/ota/ab/ab_implement#kernel-slot-arguments\u003e for more information about the topic.",
+              "description": "You can use `fastboot getvar current-slot` to know the current bootable slot of your device and `fastboot --set-active\u003dother` to switch of bootable slot.\n\nSee https://source.android.com/devices/tech/ota/ab/ab_implement#kernel-slot-arguments for more information about the topic.",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -1069,7 +984,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "If you\u0027re reading this, stop what you are doing. Please.\nThe reason why aftersales support of OnePlus use Upgrade Mode in MSM tool during remote assistance sessions rather than SMT mode is that it is meant for factory only as it wipes NV (non volatile) items such as IMEI (source \u003chttps://forum.xda-developers.com/showpost.php?p\u003d77937552\u0026postcount\u003d90\u003e)\nYou will also lose your Widevine L1 certificate.",
+              "description": "If you\u0027re reading this, stop what you are doing. Please.\nThe reason why aftersales support of OnePlus use Upgrade Mode in MSM tool during remote assistance sessions rather than SMT mode is that it is meant for factory only as it wipes NV (non volatile) items such as IMEI (source https://forum.xda-developers.com/showpost.php?p\u003d77937552\u0026postcount\u003d90)\nYou will also lose your Widevine L1 certificate.",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -1097,7 +1012,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "You can use payload dumper from \u003chttps://androidfilehost.com/?fid\u003d818070582850510260\u003e (Windows) or \u003chttps://androidfilehost.com/?fid\u003d673956719939837166\u003e (Linux) to extract stock boot.img for your device.\nPlease refer to \u003c#451373145010470912\u003e to find links to stock firmware you can extract boot.img from.",
+              "description": "You can use payload dumper from https://androidfilehost.com/?fid\u003d818070582850510260 (Windows) or https://androidfilehost.com/?fid\u003d673956719939837166 (Linux) to extract stock boot.img for your device.\nPlease refer to #451373145010470912 to find links to stock firmware you can extract boot.img from.",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -1125,7 +1040,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "You can remove any pre-installed system application by using`adb shell pm uninstall -k --user 0 \u003cname of package\u003e` from a computer with ADB installed on it.\n\nExample: `adb shell pm uninstall -k --user 0 com.netflix.mediaclient`\n\nSource \u003chttps://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/\u003e",
+              "description": "You can remove any pre-installed system application by using`adb shell pm uninstall -k --user 0 name of package` from a computer with ADB installed on it.\n\nExample: `adb shell pm uninstall -k --user 0 com.netflix.mediaclient`\n\nSource https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -1159,45 +1074,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\nXDA threads for reference and flashing instructions:\r\n\r\n**OnePlus 2:** \u003chttps://forum.xda-developers.com/oneplus-2/general/guide-unbrick-recover-oneplus-2-to-t3269543\u003e\r\n\r\n**OnePlus 3:** \u003chttps://forum.xda-developers.com/oneplus-3/how-to/op3-collection-unbrick-tools-t3896722\u003e\r\n\r\n**OnePlus 3T:** \u003chttps://forum.xda-developers.com/oneplus-3t/how-to/op3t-collection-unbrick-tools-t3896765\u003e \r\n\r\n**OnePlus 5:** \u003chttps://forum.xda-developers.com/oneplus-5/how-to/op5-collection-unbrick-tools-t3898870\u003e\r\n\r\n**OnePlus 5T:** \u003chttps://forum.xda-developers.com/oneplus-5t/how-to/op5t-collection-unbrick-tools-t3898890\u003e",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op5",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\nXDA threads for reference and flashing instructions:\r\n\r\n**OnePlus 5:** \u003chttps://forum.xda-developers.com/oneplus-5/how-to/op5-collection-unbrick-tools-t3898870\u003e\r\n\r\n**OnePlus 5T:** \u003chttps://forum.xda-developers.com/oneplus-5t/how-to/op5t-collection-unbrick-tools-t3898890\u003e",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op6",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\nXDA threads for reference and flashing instructions:\r\n\r\n**OnePlus 6:** \u003chttps://forum.xda-developers.com/oneplus-6/how-to/op6-collection-unbrick-tools-t3914109\u003e\r\n\r\n**OnePlus 6T:** \u003chttps://forum.xda-developers.com/oneplus-6t/how-to/op6t-collection-unbrick-tools-t3914746\u003e",
+              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\n\nXDA threads for reference and flashing instructions:\n\n**OnePlus 2:** https://forum.xda-developers.com/oneplus-2/general/guide-unbrick-recover-oneplus-2-to-t3269543\n\n**OnePlus 3:** https://forum.xda-developers.com/oneplus-3/how-to/op3-collection-unbrick-tools-t3896722\n\n**OnePlus 3T:** https://forum.xda-developers.com/oneplus-3t/how-to/op3t-collection-unbrick-tools-t3896765 \n\n**OnePlus 5:** https://forum.xda-developers.com/oneplus-5/how-to/op5-collection-unbrick-tools-t3898870\n\n**OnePlus 5T:** https://forum.xda-developers.com/oneplus-5t/how-to/op5t-collection-unbrick-tools-t3898890 **OnePlus 6:** https://forum.xda-developers.com/oneplus-6/how-to/op6-collection-unbrick-tools-t3914109\n\n**OnePlus 6T:** https://forum.xda-developers.com/oneplus-6t/how-to/op6t-collection-unbrick-tools-t3914746",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -1216,7 +1093,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\nXDA threads for reference and flashing instructions:\r\n\r\n**OnePlus 7:** \u003chttps://forum.xda-developers.com/oneplus-7/how-to/op7-unbrick-tool-to-restore-device-to-t3954325\u003e\r\n\r\n**OnePlus 7 Pro** \u003chttps://forum.xda-developers.com/oneplus-7-pro/how-to/op7pro-collection-unbrick-tools-t3956595\u003e\r\n\r\n**OnePlus 7 Pro 5G EU:** \u003chttps://forum.xda-developers.com/oneplus-7-pro/how-to/op7pro-5g-eu-unbrick-tool-to-restore-t4078827\u003e \r\n\r\n **OnePlus 7T:** \u003chttps://forum.xda-developers.com/oneplus-7t/how-to/op7t-unbrick-tool-to-restore-device-to-t3994835\u003e\r\n\r\n**OnePlus 7T T-Mobile:** \u003chttps://forum.xda-developers.com/oneplus-7t/how-to/op7t-t-mobile-unbrick-tool-to-restore-t4004005\u003e\r\n\r\n**OnePlus 7T Pro:** \u003chttps://forum.xda-developers.com/7t-pro/how-to/op7tpro-unbrick-tool-to-restore-device-t4002909\u003e\r\n\r\n**OnePlus 7T Pro T-Mobile 5G:** \u003chttps://forum.xda-developers.com/7t-pro-mclaren/how-to/op7tpro-tmo-5g-unbrick-tool-to-restore-t4043925\u003e",
+              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\n\nXDA threads for reference and flashing instructions:\n\n**OnePlus 7:** https://forum.xda-developers.com/oneplus-7/how-to/op7-unbrick-tool-to-restore-device-to-t3954325\n\n**OnePlus 7 Pro** https://forum.xda-developers.com/oneplus-7-pro/how-to/op7pro-collection-unbrick-tools-t3956595\n\n**OnePlus 7 Pro 5G EU:** https://forum.xda-developers.com/oneplus-7-pro/how-to/op7pro-5g-eu-unbrick-tool-to-restore-t4078827 \n\n **OnePlus 7T:** https://forum.xda-developers.com/oneplus-7t/how-to/op7t-unbrick-tool-to-restore-device-to-t3994835\n\n**OnePlus 7T T-Mobile:** https://forum.xda-developers.com/oneplus-7t/how-to/op7t-t-mobile-unbrick-tool-to-restore-t4004005\n\n**OnePlus 7T Pro:** https://forum.xda-developers.com/7t-pro/how-to/op7tpro-unbrick-tool-to-restore-device-t4002909\n\n**OnePlus 7T Pro T-Mobile 5G:** https://forum.xda-developers.com/7t-pro-mclaren/how-to/op7tpro-tmo-5g-unbrick-tool-to-restore-t4043925",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -1254,26 +1131,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\nXDA threads for reference and flashing instructions:\r\n\r\n**OnePlus 8T:** https://forum.xda-developers.com/oneplus-8t/how-to/op8t-unbrick-tool-to-restore-device-to-t4180837\r\n\r\n**OnePlus 8T T-Mobile (also known as OnePlus 8T + 5G):** https://forum.xda-developers.com/oneplus-8t/how-to/op8t-unbrick-tool-to-restore-device-to-t4180981/",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "opn10n100",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\n\nXDA threads for reference and flashing instructions:\n\n**OnePlus Nord N10 5G:** https://forum.xda-developers.com/t/opn105g-oos-86aa-89ba-unbrick-tool-to-restore-your-device-to-oxygenos.4204445/\n\n**OnePlus Nord N10 5G T-Mobile:** https://forum.xda-developers.com/t/opn105g-oos-tmo-be88cb-unbrick-tool-to-restore-your-device-to-oxygenos.4245455/\n\n**OnePlus Nord N10 5G Metro by T-Mobile:** https://forum.xda-developers.com/t/opn105g-oos-metro-be88cf-unbrick-tool-to-restore-your-device-to-oxygenos.4245461/\n\n**OnePlus Nord N100:** https://forum.xda-developers.com/t/opn100-oos-81aa-83ba-unbrick-tool-to-restore-your-device-to-oxygenos.4217855/\n\n**OnePlus Nord N100 T-Mobile:** https://forum.xda-developers.com/t/opn100-oos-tmo-be82cb-unbrick-tool-to-restore-your-device-to-oxygenos.4245495/\n\n**OnePlus Nord N100 Metro by T-Mobile:** https://forum.xda-developers.com/t/opn100-oos-metro-be82cf-unbrick-tool-to-restore-your-device-to-oxygenos.4245499/",
+              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\n\nXDA threads for reference and flashing instructions:\n\n**OnePlus 8T:** https://forum.xda-developers.com/oneplus-8t/how-to/op8t-unbrick-tool-to-restore-device-to-t4180837\n\n**OnePlus 8T T-Mobile (also known as OnePlus 8T + 5G):** https://forum.xda-developers.com/oneplus-8t/how-to/op8t-unbrick-tool-to-restore-device-to-t4180981/",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -1292,7 +1150,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\r\n\r\n**OnePlus Nord:** XDA threads for reference and flashing instructions:\u003chttps://forum.xda-developers.com/oneplus-nord/how-to/opnord-unbrick-tool-to-restore-device-t4148415\u003e\r\n\r\n**OnePlus Nord N10 5G:** https://forum.xda-developers.com/t/opn105g-oos-86aa-89ba-unbrick-tool-to-restore-your-device-to-oxygenos.4204445/\r\n\r\n**OnePlus Nord N10 5G T-Mobile:** https://forum.xda-developers.com/t/opn105g-oos-tmo-be88cb-unbrick-tool-to-restore-your-device-to-oxygenos.4245455/\r\n\r\n**OnePlus Nord N10 5G Metro by T-Mobile:** https://forum.xda-developers.com/t/opn105g-oos-metro-be88cf-unbrick-tool-to-restore-your-device-to-oxygenos.4245461/\r\n\r\n**OnePlus Nord N100:** https://forum.xda-developers.com/t/opn100-oos-81aa-83ba-unbrick-tool-to-restore-your-device-to-oxygenos.4217855/\r\n\r\n**OnePlus Nord N100 T-Mobile:** https://forum.xda-developers.com/t/opn100-oos-tmo-be82cb-unbrick-tool-to-restore-your-device-to-oxygenos.4245495/\r\n\r\n**OnePlus Nord N100 Metro by T-Mobile:** https://forum.xda-developers.com/t/opn100-oos-metro-be82cf-unbrick-tool-to-restore-your-device-to-oxygenos.4245499/",
+              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\n\n**OnePlus Nord:** XDA threads for reference and flashing instructions:https://forum.xda-developers.com/oneplus-nord/how-to/opnord-unbrick-tool-to-restore-device-t4148415\n\n**OnePlus Nord N10 5G:** https://forum.xda-developers.com/t/opn105g-oos-86aa-89ba-unbrick-tool-to-restore-your-device-to-oxygenos.4204445/\n\n**OnePlus Nord N10 5G T-Mobile:** https://forum.xda-developers.com/t/opn105g-oos-tmo-be88cb-unbrick-tool-to-restore-your-device-to-oxygenos.4245455/\n\n**OnePlus Nord N10 5G Metro by T-Mobile:** https://forum.xda-developers.com/t/opn105g-oos-metro-be88cf-unbrick-tool-to-restore-your-device-to-oxygenos.4245461/\n\n**OnePlus Nord N100:** https://forum.xda-developers.com/t/opn100-oos-81aa-83ba-unbrick-tool-to-restore-your-device-to-oxygenos.4217855/\n\n**OnePlus Nord N100 T-Mobile:** https://forum.xda-developers.com/t/opn100-oos-tmo-be82cb-unbrick-tool-to-restore-your-device-to-oxygenos.4245495/\n\n**OnePlus Nord N100 Metro by T-Mobile:** https://forum.xda-developers.com/t/opn100-oos-metro-be82cf-unbrick-tool-to-restore-your-device-to-oxygenos.4245499/",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -1322,7 +1180,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "If you want to skip the incremental roll-out from OnePlus, you can use Oxygen Updater to receive updates quicker: https://play.google.com/store/apps/details?id\u003dcom.arjanvlek.oxygenupdater. OnePlus software maintenance schedule is described at \u003chttps://forums.oneplus.com/threads/update-to-the-oxygenos-codebase-and-software-maintenance-schedule.1462181/\u003e",
+              "description": "If you want to skip the incremental roll-out from OnePlus, you can use Oxygen Updater to receive updates quicker: https://play.google.com/store/apps/details?id\u003dcom.arjanvlek.oxygenupdater. OnePlus software maintenance schedule is described at https://forums.oneplus.com/threads/update-to-the-oxygenos-codebase-and-software-maintenance-schedule.1462181/",
               "imageUrl": "https://forums-images.oneplus.net/attachments/1646/1646269-8a96aa3cf4d5ffee1f9704a37596c13c.png",
               "color": {
                 "red": 0,
@@ -1342,7 +1200,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "If you want to skip the incremental roll-out from OnePlus, you can use Oxygen Updater to receive updates quicker: https://play.google.com/store/apps/details?id\u003dcom.arjanvlek.oxygenupdater. OnePlus software maintenance schedule is described at \u003chttps://forums.oneplus.com/threads/update-to-the-oxygenos-codebase-and-software-maintenance-schedule.1462181/\u003e",
+              "description": "If you want to skip the incremental roll-out from OnePlus, you can use Oxygen Updater to receive updates quicker: https://play.google.com/store/apps/details?id\u003dcom.arjanvlek.oxygenupdater. OnePlus software maintenance schedule is described at https://forums.oneplus.com/threads/update-to-the-oxygenos-codebase-and-software-maintenance-schedule.1462181/",
               "imageUrl": "https://forums-images.oneplus.net/attachments/1646/1646269-8a96aa3cf4d5ffee1f9704a37596c13c.png",
               "color": {
                 "red": 0,
