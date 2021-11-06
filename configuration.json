@@ -239,26 +239,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "**Please bear in mind this may not work to downgrade of Android versions, you may need to use MSM tool for this.** \n\nInstructions for flashing fastboot ROMs:\n\n1. Choose to download any version of OOS through the links provided below. \n\n2. Extract contents to a folder in your PC. \n\n3. Boot your device into bootloader by pressing PWR + vol up\n\n4. Connect your device to your PC\n\n5. Double click the flashall.bat file in the folder where you extract the fastboot rom package\n\n**OnePlus 8**\nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op8-stock-fastboot-roms-for-oneplus-8.4084629/ \n**OnePlus 8 Pro** \nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op8p-stock-fastboot-roms-for-oneplus-8-pro.4083997/",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op8t",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "**Please bear in mind this may not work to downgrade of Android versions, you may need to use MSM tool for this.** \n\nInstructions for flashing fastboot ROMs:\n\n1. Choose to download any version of OOS through the links provided below. \n\n2. Extract contents to a folder in your PC. \n\n3. Boot your device into bootloader by pressing PWR + vol up\n\n4. Connect your device to your PC\n\n5. Double click the flashall.bat file in the folder where you extract the fastboot rom package\n\n**OnePlus 8T** \nhttps://forum.xda-developers.com/t/rom-stock-fastboot-stock-oxygenos-fastboot-roms-for-oneplus-8t.4348023/",
+              "description": "**Please bear in mind this may not work to downgrade of Android versions, you may need to use MSM tool for this.** \n\nInstructions for flashing fastboot ROMs:\n\n1. Choose to download any version of OOS through the links provided below. \n\n2. Extract contents to a folder in your PC. \n\n3. Boot your device into bootloader by pressing PWR + vol up\n\n4. Connect your device to your PC\n\n5. Double click the flashall.bat file in the folder where you extract the fastboot rom package\n\n**OnePlus 8**\nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op8-stock-fastboot-roms-for-oneplus-8.4084629/ \n**OnePlus 8 Pro** \nhttps://forum.xda-developers.com/t/rom-stock-fastboot-op8p-stock-fastboot-roms-for-oneplus-8-pro.4083997/ \n**OnePlus 8T** \nhttps://forum.xda-developers.com/t/rom-stock-fastboot-stock-oxygenos-fastboot-roms-for-oneplus-8t.4348023/",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -360,26 +341,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the **OnePlus 8 and 8 Pro** here: https://www.celsoazevedo.com/files/android/p/google-camera-oneplus-8-series/. See here how to install the APK: https://www.celsoazevedo.com/files/android/how-to-install-apk-file/ and here how to load config files: https://www.celsoazevedo.com/files/android/google-camera/f/settings09/.",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op8t",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the ** OnePlus 8T** here: https://www.celsoazevedo.com/files/android/p/google-camera-oneplus-8-series/. See here how to install the APK: https://www.celsoazevedo.com/files/android/how-to-install-apk-file/ and here how to load config files: https://www.celsoazevedo.com/files/android/google-camera/f/settings09/.",
+              "description": "The Google Camera port offers generally more detail, more accurate colours and better HDR. You can download this for the **OnePlus 8 and 8 Pro** here: https://www.celsoazevedo.com/files/android/p/google-camera-oneplus-8-series/ and for **OnePlus 8T** here: https://www.celsoazevedo.com/files/android/p/google-camera-oneplus-8-series/. See here how to install the APK: https://www.celsoazevedo.com/files/android/how-to-install-apk-file/ and here how to load config files: https://www.celsoazevedo.com/files/android/google-camera/f/settings09/.",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -562,26 +524,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "You can find official OxygenOS zips for the OnePlus 8 and Oneplus 8 Pro at https://forum.xda-developers.com/oneplus-8/how-to/oneplus-8-repo-oxygen-os-builds-t4084233 and https://forum.xda-developers.com/oneplus-8-pro/how-to/oneplus-8-pro-repo-oxygen-os-builds-t4084315/",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op8t",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "You can find official OxygenOS zips for the OnePlus 8T at https://forum.xda-developers.com/oneplus-8t/how-to/oneplus-8t-repo-oxygen-os-builds-t4193183",
+              "description": "You can find official OxygenOS zips for the OnePlus 8 and Oneplus 8 Pro at https://forum.xda-developers.com/oneplus-8/how-to/oneplus-8-repo-oxygen-os-builds-t4084233 and https://forum.xda-developers.com/oneplus-8-pro/how-to/oneplus-8-pro-repo-oxygen-os-builds-t4084315/ \n You can find official OxygenOS zips for the OnePlus 8T at https://forum.xda-developers.com/oneplus-8t/how-to/oneplus-8t-repo-oxygen-os-builds-t4193183",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -758,7 +701,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 3: https://www.oneplus.com/support/repair-pricing/details?code=4 \nRepair prices for the OnePlus 3T: https://www.oneplus.com/support/repair-pricing/details?code=6 \nRepair prices for the OnePlus 5: https://www.oneplus.com/support/repair-pricing/details?code=5 \nRepair prices for the OnePlus 5T: https://www.oneplus.com/support/repair-pricing/details?code=7\n Repair prices for the OnePlus 6: https://www.oneplus.com/support/repair-pricing/details?code=8 \nRepair prices for the OnePlus 6T: https://www.oneplus.com/support/repair-pricing/details?code=9",
+              "description": "Repair prices for the OnePlus 3: https://www.oneplus.com/support/repair-pricing/details?code\u003d4 \nRepair prices for the OnePlus 3T: https://www.oneplus.com/support/repair-pricing/details?code\u003d6 \nRepair prices for the OnePlus 5: https://www.oneplus.com/support/repair-pricing/details?code\u003d5 \nRepair prices for the OnePlus 5T: https://www.oneplus.com/support/repair-pricing/details?code\u003d7\n Repair prices for the OnePlus 6: https://www.oneplus.com/support/repair-pricing/details?code\u003d8 \nRepair prices for the OnePlus 6T: https://www.oneplus.com/support/repair-pricing/details?code\u003d9",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -777,7 +720,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 7: https://www.oneplus.com/support/repair-pricing/details?code=10 \nRepair prices for the OnePlus 7 Pro: https://www.oneplus.com/support/repair-pricing/details?code=11 \n Repair prices for the OnePlus 7T: https://www.oneplus.com/support/repair-pricing/details?code=22 \nRepair prices for the OnePlus 7T Pro: https://www.oneplus.com/support/repair-pricing/details?code=23",
+              "description": "Repair prices for the OnePlus 7: https://www.oneplus.com/support/repair-pricing/details?code\u003d10 \nRepair prices for the OnePlus 7 Pro: https://www.oneplus.com/support/repair-pricing/details?code\u003d11 \n Repair prices for the OnePlus 7T: https://www.oneplus.com/support/repair-pricing/details?code\u003d22 \nRepair prices for the OnePlus 7T Pro: https://www.oneplus.com/support/repair-pricing/details?code\u003d23",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -796,26 +739,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 8: https://www.oneplus.com/support/repair-pricing/details?code=24 \nRepair prices for the OnePlus 8 Pro: https://www.oneplus.com/support/repair-pricing/details?code=25",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op8t",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "Repair prices for the OnePlus 8T: https://www.oneplus.com/support/repair-pricing/details?code=28",
+              "description": "Repair prices for the OnePlus 8: https://www.oneplus.com/support/repair-pricing/details?code=24 \nRepair prices for the OnePlus 8 Pro: https://www.oneplus.com/support/repair-pricing/details?code=25 \nRepair prices for the OnePlus 8T: https://www.oneplus.com/support/repair-pricing/details?code=28",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -834,7 +758,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 9: https://www.oneplus.com/support/repair-pricing/details?code=32 \nRepair prices for the OnePlus 9 Pro: https://www.oneplus.com/support/repair-pricing/details?code=33 \nRepair prices for the OnePlus 9 R: https://www.oneplus.com/support/repair-pricing/details?code=34",
+              "description": "Repair prices for the OnePlus 9: https://www.oneplus.com/support/repair-pricing/details?code\u003d32 \nRepair prices for the OnePlus 9 Pro: https://www.oneplus.com/support/repair-pricing/details?code\u003d33 \nRepair prices for the OnePlus 9 R: https://www.oneplus.com/support/repair-pricing/details?code\u003d34",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -853,7 +777,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus Nord: https://www.oneplus.com/support/repair-pricing/details?code=27 \nRepair prices for the OnePlus Nord N10 5G: https://www.oneplus.com/support/repair-pricing/details?code=30 \nRepair prices for the OnePlus Nord N100: https://www.oneplus.com/support/repair-pricing/details?code=31 \n Repair prices for the OnePlus Nord N10 5G: https://www.oneplus.com/support/repair-pricing/details?code=30 \nRepair prices for the OnePlus Nord N100: https://www.oneplus.com/support/repair-pricing/details?code=31",
+              "description": "Repair prices for the OnePlus Nord: https://www.oneplus.com/support/repair-pricing/details?code\u003d27 \nRepair prices for the OnePlus Nord N10 5G: https://www.oneplus.com/support/repair-pricing/details?code\u003d30 \nRepair prices for the OnePlus Nord N100: https://www.oneplus.com/support/repair-pricing/details?code\u003d31 \n Repair prices for the OnePlus Nord N10 5G: https://www.oneplus.com/support/repair-pricing/details?code\u003d30 \nRepair prices for the OnePlus Nord N100: https://www.oneplus.com/support/repair-pricing/details?code\u003d31",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -1112,26 +1036,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\n\nXDA threads for reference and flashing instructions:\n\n**OnePlus 8:** https://forum.xda-developers.com/oneplus-8/how-to/op8-unbrick-tool-to-restore-device-to-t4085877\n\n**OnePlus 8 T-Mobile:** https://forum.xda-developers.com/oneplus-8/how-to/op8-unbrick-tool-to-restore-device-to-t4093043\n\n**OnePlus 8 Verizon:** https://forum.xda-developers.com/t/op8-oos-vzw-67cd-unbrick-tool-to-restore-your-device-to-oxygenos.4191723/\n\n**OnePlus 8 Visible:** https://forum.xda-developers.com/t/op8-oos-vis-68ce-unbrick-tool-to-restore-your-device-to-oxygenos.4203017/\n\n**OnePlus 8 Pro:** https://forum.xda-developers.com/oneplus-8-pro/how-to/op8pro-unbrick-tool-to-restore-device-t4084953",
-              "color": {
-                "red": 0,
-                "green": 0,
-                "blue": 0
-              },
-              "author": {
-                "useBot": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "channelGroupName": "op8t",
-        "messages": [
-          {
-            "position": 0,
-            "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\n\nXDA threads for reference and flashing instructions:\n\n**OnePlus 8T:** https://forum.xda-developers.com/oneplus-8t/how-to/op8t-unbrick-tool-to-restore-device-to-t4180837\n\n**OnePlus 8T T-Mobile (also known as OnePlus 8T + 5G):** https://forum.xda-developers.com/oneplus-8t/how-to/op8t-unbrick-tool-to-restore-device-to-t4180981/",
+              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\n\nXDA threads for reference and flashing instructions:\n\n**OnePlus 8:** https://forum.xda-developers.com/oneplus-8/how-to/op8-unbrick-tool-to-restore-device-to-t4085877\n\n**OnePlus 8 T-Mobile:** https://forum.xda-developers.com/oneplus-8/how-to/op8-unbrick-tool-to-restore-device-to-t4093043\n\n**OnePlus 8 Verizon:** https://forum.xda-developers.com/t/op8-oos-vzw-67cd-unbrick-tool-to-restore-your-device-to-oxygenos.4191723/\n\n**OnePlus 8 Visible:** https://forum.xda-developers.com/t/op8-oos-vis-68ce-unbrick-tool-to-restore-your-device-to-oxygenos.4203017/\n\n**OnePlus 8 Pro:** https://forum.xda-developers.com/oneplus-8-pro/how-to/op8pro-unbrick-tool-to-restore-device-t4084953\n\n**OnePlus 8T:** https://forum.xda-developers.com/oneplus-8t/how-to/op8t-unbrick-tool-to-restore-device-to-t4180837\n\n**OnePlus 8T T-Mobile (also known as OnePlus 8T + 5G):** https://forum.xda-developers.com/oneplus-8t/how-to/op8t-unbrick-tool-to-restore-device-to-t4180981/",
               "color": {
                 "red": 0,
                 "green": 0,
