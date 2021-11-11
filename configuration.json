@@ -739,7 +739,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "Repair prices for the OnePlus 8: https://www.oneplus.com/support/repair-pricing/details?code=24 \nRepair prices for the OnePlus 8 Pro: https://www.oneplus.com/support/repair-pricing/details?code=25 \nRepair prices for the OnePlus 8T: https://www.oneplus.com/support/repair-pricing/details?code=28",
+              "description": "Repair prices for the OnePlus 8: https://www.oneplus.com/support/repair-pricing/details?code\u003d24 \nRepair prices for the OnePlus 8 Pro: https://www.oneplus.com/support/repair-pricing/details?code\u003d25 \nRepair prices for the OnePlus 8T: https://www.oneplus.com/support/repair-pricing/details?code\u003d28",
               "color": {
                 "red": 0,
                 "green": 0,
@@ -998,7 +998,7 @@
           {
             "position": 0,
             "embed": {
-              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\n\nXDA threads for reference and flashing instructions:\n\n**OnePlus 2:** https://forum.xda-developers.com/oneplus-2/general/guide-unbrick-recover-oneplus-2-to-t3269543\n\n**OnePlus 3:** https://forum.xda-developers.com/oneplus-3/how-to/op3-collection-unbrick-tools-t3896722\n\n**OnePlus 3T:** https://forum.xda-developers.com/oneplus-3t/how-to/op3t-collection-unbrick-tools-t3896765 \n\n**OnePlus 5:** https://forum.xda-developers.com/oneplus-5/how-to/op5-collection-unbrick-tools-t3898870\n\n**OnePlus 5T:** https://forum.xda-developers.com/oneplus-5t/how-to/op5t-collection-unbrick-tools-t3898890 **OnePlus 6:** https://forum.xda-developers.com/oneplus-6/how-to/op6-collection-unbrick-tools-t3914109\n\n**OnePlus 6T:** https://forum.xda-developers.com/oneplus-6t/how-to/op6t-collection-unbrick-tools-t3914746",
+              "description": "**Fast download:** Check out https://www.onepluscommunityserver.com/ for recent versions of unbrick Tools for OnePlus phones.\n\nXDA threads for reference and flashing instructions:\n\n**OnePlus 2:** https://forum.xda-developers.com/oneplus-2/general/guide-unbrick-recover-oneplus-2-to-t3269543\n\n**OnePlus 3:** https://forum.xda-developers.com/oneplus-3/how-to/op3-collection-unbrick-tools-t3896722\n\n**OnePlus 3T:** https://forum.xda-developers.com/oneplus-3t/how-to/op3t-collection-unbrick-tools-t3896765 \n\n**OnePlus 5:** https://forum.xda-developers.com/oneplus-5/how-to/op5-collection-unbrick-tools-t3898870\n\n**OnePlus 5T:** https://forum.xda-developers.com/oneplus-5t/how-to/op5t-collection-unbrick-tools-t3898890 \n\n**OnePlus 6:** https://forum.xda-developers.com/oneplus-6/how-to/op6-collection-unbrick-tools-t3914109\n\n**OnePlus 6T:** https://forum.xda-developers.com/oneplus-6t/how-to/op6t-collection-unbrick-tools-t3914746",
               "color": {
                 "red": 0,
                 "green": 0,
